@@ -1,4 +1,4 @@
-<img width="1872" height="1170" alt="image" src="https://github.com/user-attachments/assets/8d2bb71f-7ded-47e2-8169-a07b671e9255" /># 🌐 Personal Portfolio Website
+ 🌐 Personal Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my skills, projects, education, and contact information.
 
@@ -8,7 +8,8 @@ https://portfolio-black-sigma-19.vercel.app/
 
 ## 📸 Preview
 
-> Add a screenshot here
+<img width="1897" height="970" alt="image" src="https://github.com/user-attachments/assets/80d406a2-5f69-4111-bf4e-7745f769c8ef" />
+
 
 
 
